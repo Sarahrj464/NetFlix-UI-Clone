@@ -34,3 +34,11 @@ A responsive clone of the Netflix landing page built using pure HTML and CSS. Th
 ✅ Clean, modular code structure 
 ✅ Custom favicon and polished UI
 
+## 🤝 Connect & Contribute
+
+If you found this project helpful or inspiring:
+- 💬 **Give Feedback & Collaborate** – I’m open to suggestions, improvements, or team-ups.
+- 🌐 **Join the Journey** – Follow my GitHub to see more creative builds.
+- ⭐ **Support & Share** – Star the repo or share it with others who might enjoy it.
+- 📢 **Let’s Connect** – Reach out via [GitHub](https://github.com/Sarahrj464)
+
